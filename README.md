@@ -1,2 +1,2 @@
 # Hello-World
-This is my introduction to Githhub community. Thanks!
+This is my introduction to Githhub. Thanks!
